@@ -2,10 +2,12 @@
 Poster i [/r/norge](https://old.reddit.com/r/norge) skal ha særskilt relevans til [Norge](https://no.wikipedia.org/wiki/norge). Poster uten slik relevans blir i all hovedsak fjernet av moderatorer. [/r/urix](https://old.reddit.com/r/urix) kan brukes.
 
 ## Funksjon
-Funksjonen til denne reglen er å hindre at subben blir fylt med ting som ikke angår Norge. Subben er ment for å være et forum hvor vi skal kunne diskutere ting som skjer i Norge, ikke ting som skjer i verden på norsk.
+* Hindre at subben blir fylt med ting som ikke angår Norge.
+
+Subben er ment for å være et forum hvor vi skal kunne diskutere ting som skjer i Norge, ikke ting som skjer i verden på norsk.
 
 ## Reaksjon
-Moderator fjerner posten.
+Moderator fjerner innlegget.
 
 ## Eksempler
 * En artikkel som handler om at Sverige innfører nye tiltak mot COVID.
