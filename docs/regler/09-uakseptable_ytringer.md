@@ -6,7 +6,7 @@
 * Gir moderator hjemmel for å fjerne særdeles aggresive kommentarer.
 
 ## Reaksjon
-Innlegg fjernes. OP tagges med UY (Uakseptable Ytringer). Gjentakelse gir ban.
+Innlegg fjernes. OP tagges med ~UY (Uakseptable Ytringer)~ HS (Hate Speech). Gjentakelse gir ban.
 
 ## Eksempler
 ## Spesielle tilfeller

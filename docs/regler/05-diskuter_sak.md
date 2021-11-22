@@ -6,6 +6,7 @@ Hindre at kommentarfeltet ender opp i drittkasting og generelt dårlig miljø.
 
 ## Reaksjon
 Moderator fjerner kommentaren. Bruker tagges med PA (Personal Attack). Gjenntatte PA gir ban.
+Tagges med `PA` (Personal Attack).
 
 ## Eksempler
 ## Spesielle tilfeller
