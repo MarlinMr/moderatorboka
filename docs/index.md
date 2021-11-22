@@ -7,6 +7,7 @@ Under `vedtak`finnes vedtak på ting som ikke dekkes av reglene.
 
 ## Moderator notation
 Vi anbefaler bruk av [Moderator toolbox](https://chrome.google.com/webstore/detail/moderator-toolbox-for-red/jhjpjhhkcbkmgdkahnckfboefnkgghpo?hl=en). Det gir oss blandt annet mulighet for å tagge brukere når de skriver tvilsomme/regelbrudd i kommentarene. Tagging brukes som følger:
+
 * `0d`: Brukes som prefix om brukeren er helt fersk. Både på tagging og kommentar til banning.
 * `HS`: Hate Speech, brukes om hatefulle ytringer.
 * `PA`: Personal Attack (PersonAngrep), brukes når noen driver med personangrep i kommentarfeltene
